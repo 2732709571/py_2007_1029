@@ -6,3 +6,4 @@ numjinglu=3
 #jingli=4
 #解决冲突
 lisi=6
+num=7
