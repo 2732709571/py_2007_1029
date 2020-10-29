@@ -1,3 +1,5 @@
 num=1
 numlisi=2
 numjinglu=3
+#冲突
+lisi=5
